@@ -1,0 +1,19 @@
+{
+  "name": "g6-flow",
+  "version": "0.0.1",
+  "description": "flowchart based on G6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Js-Monkey/g6-flow.git"
+  },
+  "author": "jumodada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Js-Monkey/g6-flow/issues"
+  },
+  "homepage": "https://github.com/Js-Monkey/g6-flow#readme"
+}
